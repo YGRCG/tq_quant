@@ -29,3 +29,14 @@ env/
 # Generated files
 *.tmp
 *.temp
+
+# TqSdk source and documentation
+tqsdk-python/
+tqsdk-trading-and-data/
+
+# Model outputs and reports
+ml/fu_main_minute/output/
+ml/fu/output/
+
+# Repository documentation
+AGENTS.md
