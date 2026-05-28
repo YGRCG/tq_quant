@@ -1,0 +1,31 @@
+# Python compiled files
+*.pyc
+__pycache__/
+
+# Environment variables
+.env
+
+# Log files
+*.log
+logs/
+
+# Data files
+*.csv
+data/
+market_data/
+
+# Editor directories
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Virtual environments
+venv/
+env/
+
+# Generated files
+*.tmp
+*.temp
